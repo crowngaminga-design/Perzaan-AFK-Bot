@@ -1,13 +1,13 @@
 {
-  "name": "STORM MC BOT",
+  "name": "AFK Bot",
   "bot-account": {
-    "username": "STORM MC BOT",
+    "username": "PerzaanLive",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
-    "ip": "playstormcfun.aternos.me",
-    "port": 20593,
+    "ip": "example.aternos.me",
+    "port": 75375,
     "version": "1.21.1"
   },
   "position": {
@@ -40,7 +40,7 @@
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 20000,
     "periodic-rejoin": {
-      "enabled": true,
+      "enabled": false,
       "min-interval": 20,
       "max-interval": 60
     }
@@ -88,4 +88,4 @@
   "chat": {
     "respond": true
   }
-}
+  }
