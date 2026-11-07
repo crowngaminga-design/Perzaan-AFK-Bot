@@ -1,9 +1,9 @@
 {
-  "name": "AFK Bot",
+  "name": "STORM MC BOT",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "STORM MC BOT",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "playstormcfun.aternos.me",
