@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "playstormcfun.aternos.me",
-    "port": 75375,
-    "version": "1.21.1"
+    "port":20593,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
