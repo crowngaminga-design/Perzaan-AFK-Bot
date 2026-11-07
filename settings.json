@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "STORM MC BOT",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "STORM MC BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
+    "ip": "playstormcfun.aternos.me",
     "port": 75375,
     "version": "1.21.1"
   },
